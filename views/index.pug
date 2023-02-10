@@ -1,0 +1,26 @@
+extends layout
+
+block main-content
+  h1.page-title Trending
+  div.itemlist
+    each Items in Itemlist
+      .item
+        //-All Images from https://https://ca.shein.com/
+        img(src=Items.img1, alt=Items.Name)
+        p #{Items.Name}
+        -var CaCurrency="CA$"
+        -var discount="% Discount"
+        if Items.Sale>0
+          p.sale.dis #{CaCurrency}#{Items.Price}
+          p.sale#saleamount #{Items.Sale}#{discount}
+          -var NewPrice=Items.Price-(Items.Price*Items.Sale/100)
+          p #{CaCurrency}#{NewPrice}
+        else
+          p.sale #{CaCurrency}#{Items.Price}
+        - var n=0;
+        ul#rating
+          while n < Items.Rating
+            li &#9733;
+            -n++
+
+  

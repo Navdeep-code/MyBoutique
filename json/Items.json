@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "63e5271ce7f515f2edd1c805"
+  },
+  "productCode": "N2844",
+  "Name": "LOVE&LEMONADE One Shoulder Cut-out Split Thigh Sequin Formal Gown",
+  "Price": 92,
+  "img1": "https://img.ltwebstatic.com/images3_pi/2022/08/03/1659503400c9833608299a5f9be90d53ec7484aa7b.webp",
+  "Rating": 5,
+  "Sale": 30
+},{
+  "_id": {
+    "$oid": "63e5273fe7f515f2edd1c806"
+  },
+  "productCode": "N2244",
+  "Name": "Crisscross Backless Geo Sequins Mermaid Hem Formal Evening Gown",
+  "Price": 94,
+  "img1": "https://img.ltwebstatic.com/images3_pi/2021/10/28/16353844523ddabab9ab30b27e7de7efc629769fc6_thumbnail_900x.webp",
+  "Rating": 4,
+  "Sale": 0
+},{
+  "_id": {
+    "$oid": "63e5275ee7f515f2edd1c807"
+  },
+  "productCode": "N2344",
+  "Name": "Off Shoulder Split Thigh Sequin Formal Evening Gown",
+  "Price": 102,
+  "img1": "https://img.ltwebstatic.com/images3_pi/2022/07/28/165897976252b7fd808d6bba38c3ad347b19a5761c_thumbnail_900x.webp",
+  "Rating": 3,
+  "Sale": 10
+},{
+  "_id": {
+    "$oid": "63e52785e7f515f2edd1c808"
+  },
+  "productCode": "N2444",
+  "Name": "LOVE&LEMONADE Contrast Sequin Backless Mesh Tube Bridesmaid Formal Gown",
+  "Price": 87,
+  "img1": "https://img.ltwebstatic.com/images3_pi/2022/07/11/165751608646435d01126174e2334f820d0597893e_thumbnail_810x.webp",
+  "Rating": 2,
+  "Sale": 20
+},{
+  "_id": {
+    "$oid": "63e527a4e7f515f2edd1c809"
+  },
+  "productCode": "N2544",
+  "Name": "LOVE&LEMONADE Cold Shoulder Ombre Sequin Floor Length Formal Gown",
+  "Price": 98,
+  "img1": "https://img.ltwebstatic.com/images3_pi/2022/03/22/1647917418c9bfee80cc4aff5af89444c3891067ac_thumbnail_900x.webp",
+  "Rating": 5,
+  "Sale": 0
+},{
+  "_id": {
+    "$oid": "63e527c2e7f515f2edd1c80a"
+  },
+  "productCode": "N2744",
+  "Name": "Contrast Mesh Sequin Mermaid Hem Cami Evening Gown",
+  "Price": 68,
+  "img1": "https://img.ltwebstatic.com/images3_pi/2022/06/07/165457833631cc07ae3baa64cdaff1013704a8e42f_thumbnail_900x.webp",
+  "Rating": 4,
+  "Sale": 0
+},{
+  "_id": {
+    "$oid": "63e52ccce7f515f2edd1c80c"
+  },
+  "productCode": "N2644",
+  "Name": "High Split Sequin Cami Evening Gown",
+  "Price": 84,
+  "img1": "https://img.ltwebstatic.com/images3_pi/2022/04/19/1650338903672b066cc603343ccfe441713af04180_thumbnail_900x.webp",
+  "Rating": 3,
+  "Sale": 25
+}]

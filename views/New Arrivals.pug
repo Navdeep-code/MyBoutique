@@ -1,0 +1,19 @@
+extends layout
+
+block main-content
+  h1.page-title New Arrivals
+  div.itemlist
+    each Items in Itemlist
+      if Items.Sale==0
+        .item
+          -var CaCurrency="CA$"
+          img#itemImg(src=Items.img1, alt=Items.Name, width="250", height="auto")
+          p #{Items.Name}
+          p #{CaCurrency}#{Items.Price}
+          - var n=0;
+          ul#rating
+            while n < Items.Rating
+              li &#9733;
+              -n++
+
+  
